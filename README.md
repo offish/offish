@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://offi.sh">offish</a><h1>
+<h1 align="center">offish</h1>
 
 <p align="center">hobbyist programmer on a stack no cap</p>
 
