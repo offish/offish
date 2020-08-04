@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"><a href="https://offi.sh">offish</a><h1>
 
-<!--
-**offish/offish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">hobbyist programmer on a stack no cap</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://discord.gg/t8nHSvA">
+    <img src="https://img.shields.io/badge/Discord-9cf.svg">
+  </a>
+  '
+  <a href="https://steamcommunity.com/id/confern">
+    <img src="https://img.shields.io/badge/Steam-blue.svg">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.paypal.me/0ffish">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue">
+  </a>
+  '
+  <a href="https://steamcommunity.com/tradeoffer/new/?partner=293059984&token=0-l_idZR">
+    <img src="https://img.shields.io/badge/Donate-Steam-green.svg">
+  </a>
+  <br>
+  1JMTVxReTE9nyXorzPPReLpWXXrRkSybaZ
+</p>
+
+<p align="center">
+  <img width="445" height="175" src="https://github-readme-stats.vercel.app/api?username=offish&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+</p>
+
+---
+<p align="center">offish 2020</p>
